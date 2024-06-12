@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+# 1.项目目的
+为满足公司业务需求,特此开辟了一条全新道路玩法,此项目开源纯属为了更好的技术交流
+# 2.开发中
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+# 3.待做
