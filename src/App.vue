@@ -20,12 +20,22 @@ onMounted(async () => {
 
   ggbApplet = new GGBApplet({
     appName: 'classic',
-    width: 1900,
-    height: 600,
+    width: 1920,
+    height: 800,
     showToolBar: true,
     showAlgebraInput: true,
-    showMenuBar: false,
+    showMenuBar: true,
     language: "zh_CN",
+    showFullscreenButton: true,
+    preventFocus: true,
+    showZoomButtons: true,
+    // scaleContainerClass: true,
+    showResetIcon: true,
+    enable3d: true,
+    enable3d: true,
+    enableFileFeatur: true,
+    showStartTooltip: true,
+    showToolBarHelp: true,
     appletOnLoad: function (api) {
       console.log("GeoGebra applet loaded successfully!");
       // 使用 api 对象进行操作
